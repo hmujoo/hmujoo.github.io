@@ -139,6 +139,14 @@ $(document).ready(function() {
 			$('#show1').css('color', '#000000');
 		});
 
+	$('#show3').hover(function() {
+		$('#show3').css('background', '#000000');
+		$('#show3').css('color', '#FFFFFF'); },
+		function() {
+			$('#show3').css('background', '#FFFFFF');
+			$('#show3').css('color', '#000000');
+		});
+
 	$('#show2').hover(function() {
 		$('#show2').css('background', '#000000');
 		$('#show2').css('color', '#FFFFFF'); },
