@@ -317,6 +317,10 @@ a {
 	width: 250px;
 }
 
+.show {
+	background: #BEBEC2;
+}
+
 #berkeley-show-text {
 	display: none;
 	margin-top: 3px;
