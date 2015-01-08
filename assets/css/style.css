@@ -317,10 +317,6 @@ a {
 	width: 250px;
 }
 
-.show {
-	background: #BEBEC2;
-}
-
 #berkeley-show-text {
 	display: none;
 	margin-top: 3px;
@@ -356,7 +352,7 @@ a {
 
 
 #show1 {
-	background: #FFFFFF;
+	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
 	padding: 3px;
@@ -369,7 +365,7 @@ a {
 }
 
 #show2 {
-	background: #FFFFFF;
+	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
 	padding: 3px;
@@ -382,7 +378,7 @@ a {
 }
 
 #show3 {
-	background: #FFFFFF;
+	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
 	padding: 3px;
@@ -395,7 +391,7 @@ a {
 }
 
 #show4 {
-	background: #FFFFFF;
+	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
 	padding: 3px;
@@ -421,7 +417,7 @@ a {
 }
 
 #show5 {
-	background: #FFFFFF;
+	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
 	padding: 3px;
@@ -435,7 +431,7 @@ a {
 }
 
 #show6 {
-	background: #FFFFFF;
+	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
 	padding: 3px;
