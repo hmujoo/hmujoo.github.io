@@ -336,7 +336,7 @@ a {
 #street-show-text {
 	display: none;
 	margin-top: 3px;
-	margin-left: -20px;
+	margin-left: 0px;
 	overflow: scroll;
 	width: 250px;
 }
