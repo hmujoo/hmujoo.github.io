@@ -362,9 +362,11 @@ a {
 	width: 45px;
 	margin-left: 88px;
 	font-style: normal;
+	font-weight: 600;
 }
 
 #show2 {
+	font-weight: 600;
 	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
@@ -378,6 +380,7 @@ a {
 }
 
 #show3 {
+	font-weight: 600;
 	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
@@ -391,6 +394,7 @@ a {
 }
 
 #show4 {
+	font-weight: 600;
 	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
@@ -417,6 +421,7 @@ a {
 }
 
 #show5 {
+	font-weight: 600;
 	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;
@@ -431,6 +436,7 @@ a {
 }
 
 #show6 {
+	font-weight: 600;
 	background: #BEBEC2;
 	cursor: pointer;
 	margin-top: 5px;

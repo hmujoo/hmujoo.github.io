@@ -133,49 +133,49 @@ $(document).ready(function() {
 
 	$('#show1').hover(function() {
 		$('#show1').css('background', '#000000');
-		$('#show1').css('color', '#FFFFFF'); },
+		$('#show1').css('color', '#BEBEC2'); },
 		function() {
-			$('#show1').css('background', '#FFFFFF');
+			$('#show1').css('background', '#BEBEC2');
 			$('#show1').css('color', '#000000');
 		});
 
 	$('#show3').hover(function() {
 		$('#show3').css('background', '#000000');
-		$('#show3').css('color', '#FFFFFF'); },
+		$('#show3').css('color', '#BEBEC2'); },
 		function() {
-			$('#show3').css('background', '#FFFFFF');
+			$('#show3').css('background', '#BEBEC2');
 			$('#show3').css('color', '#000000');
 		});
 
 	$('#show2').hover(function() {
 		$('#show2').css('background', '#000000');
-		$('#show2').css('color', '#FFFFFF'); },
+		$('#show2').css('color', '#BEBEC2'); },
 		function() {
-			$('#show2').css('background', '#FFFFFF');
+			$('#show2').css('background', '#BEBEC2');
 			$('#show2').css('color', '#000000');
 	});
 
 	$('#show4').hover(function() {
 		$('#show4').css('background', '#000000');
-		$('#show4').css('color', '#FFFFFF'); },
+		$('#show4').css('color', '#BEBEC2'); },
 		function() {
-			$('#show4').css('background', '#FFFFFF');
+			$('#show4').css('background', '#BEBEC2');
 			$('#show4').css('color', '#000000');
 	});
 
 	$('#show5').hover(function() {
 		$('#show5').css('background', '#000000');
-		$('#show5').css('color', '#FFFFFF'); },
+		$('#show5').css('color', '#BEBEC2'); },
 		function() {
-			$('#show5').css('background', '#FFFFFF');
+			$('#show5').css('background', '#BEBEC2');
 			$('#show5').css('color', '#000000');
 	});
 
 	$('#show6').hover(function() {
 		$('#show6').css('background', '#000000');
-		$('#show6').css('color', '#FFFFFF'); },
+		$('#show6').css('color', '#BEBEC2'); },
 		function() {
-			$('#show6').css('background', '#FFFFFF');
+			$('#show6').css('background', '#BEBEC2');
 			$('#show6').css('color', '#000000');
 	});
 
